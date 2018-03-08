@@ -1,10 +1,14 @@
 package de.shydev.betterfarming;
 
+import org.bukkit.plugin.java.JavaPlugin;
+
 /**
- * Coded by DieStrasse
+ * Coded by ShyDev
  * Coded with IntelliJ
  */
 
-public class Main {
+public class Main extends JavaPlugin{
+
+
 
 }
